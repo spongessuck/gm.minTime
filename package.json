@@ -1,0 +1,33 @@
+{
+  "name": "gm.minTime",
+  "version": "1.0.0",
+  "description": "Directive for AngularJS that sets model validation based on a minimum time value. Useful for UI Bootstrap Timepickers or <input type='time' /> elements",
+  "main": "dist/gm.minTime.min.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spongessuck/gm.minTime"
+  },
+  "keywords": [
+    "angular",
+    "time",
+    "mintime",
+    "validation",
+    "bootstrap",
+    "timepicker"
+  ],
+  "author": "Greg McGee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spongessuck/gm.minTime/issues"
+  },
+  "homepage": "https://github.com/spongessuck/gm.minTime"
+}
