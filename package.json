@@ -1,6 +1,6 @@
 {
   "name": "gm.minTime",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Directive for AngularJS that sets model validation based on a minimum time value. Useful for UI Bootstrap Timepickers or <input type='time' /> elements",
   "main": "dist/gm.minTime.min.js",
   "dependencies": {
